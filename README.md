@@ -1,6 +1,6 @@
 # Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene-regulatory functions
 
-Emily B. Fabyanic $, Peng Hu $, Qi Qiu $, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu #
+Emily B. Fabyanic$, Peng Hu$, Qi Qiu$, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu #
 
 $ These authors contributed equally: E.F., P.H. and Q.Q.; 
 
