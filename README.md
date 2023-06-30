@@ -1,4 +1,4 @@
-# Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene-regulatory functions
+## Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene-regulatory functions
 
 Emily B. Fabyanic1,2,5, Peng Hu1,2,4,5, Qi Qiu1,2,5, Kiara N. Berríos2,3, Daniel R. Connolly1,2, Tong Wang2,3, Jennifer Flournoy1,2, Zhaolan Zhou1,2, Rahul M. Kohil2,3, Hao Wu1,2,#
 
