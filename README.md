@@ -1,6 +1,6 @@
 # Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene-regulatory functions
 
-Emily B. Fabyanic$, Peng Hu$, Qi Qiu$, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu#
+Emily B. Fabyanic $, Peng Hu $, Qi Qiu $, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu #
 
 $ These authors contributed equally: E.F., P.H. and Q.Q.; 
 
@@ -10,14 +10,15 @@ $ These authors contributed equally: E.F., P.H. and Q.Q.;
 # Summary
 Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generates 5-hydroxymethylcytosine (5hmC), the most abundant form of oxidized 5mC. Existing single-cell bisulfite sequencing methods cannot resolve  5mC and 5hmC, leaving the cell-type-specific regulatory mechanisms of TET and 5hmC largely unknown. Here we present Joint single-nucleus (hydroxy)methylcytosine sequencing (Joint-snhmC-seq), a scalable and quantitative approach that simultaneously profiles 5hmC and true 5mC in single cells by harnessing differential deaminase activity of APOBEC3A towards 5mC and chemically protected 5hmC. Joint-snhmC-seq profiling of single nuclei from the mouse brains reveals an unprecedented level of epigenetic heterogeneity of both 5hmC and true 5mC at single-cell resolution. We show that cell-type-specific profiles of 5hmC or true 5mC improve multi-modal single-cell data integration, enable accurate identification of neuronal subtypes, and uncover context-specific regulatory effects of cell-type-specific genes by TET enzymes.  
 
-# Joint-snhmC-seq diagram
+# Joint-snhmC-seq workflow
 ![Joint-snhmC-seq_diagram](https://github.com/wulabupenn/Joint-snhmC-seq/assets/33881425/c6e3e69c-dbb5-4cf7-8c7b-a809a2987933)
 
+# Comparison between single and dual epigenetic modality sequencing in single cells
 ![Joint-snhmC-seq_diagram2](https://github.com/wulabupenn/Joint-snhmC-seq/assets/33881425/f89cbf85-fec5-477c-914b-041735466b23)
 
 # Code
 * Mapping pipelines
-* Generation of figures
+* Codes for plotting figures: 
 https://github.com/Xiaolong0803/Fabyanic-NATURE-BIOTECHNOLOGY-2023
 
 # Preprint
