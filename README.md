@@ -2,11 +2,11 @@
 
 Emily B. Fabyanic1,2,5, Peng Hu1,2,4,5, Qi Qiu1,2,5, Kiara N. Berríos2,3, Daniel R. Connolly1,2, Tong Wang2,3, Jennifer Flournoy1,2, Zhaolan Zhou1,2, Rahul M. Kohil2,3, Hao Wu1,2,#
 
-1 Department of Genetics, University of Pennsylvania, Philadelphia, PA 19104, USA
-2 Penn Epigenetics Institute, University of Pennsylvania, Philadelphia, PA 19104, USA
-3 Department of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA
-4 International Research Center for Marine Biosciences, Ministry of Science and Technology, Shanghai Ocean University, Shanghai 201306, China
-5 These authors contributed equally: E.F., P.H. and Q.Q.
+1 Department of Genetics, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+2 Penn Epigenetics Institute, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+3 Department of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+4 International Research Center for Marine Biosciences, Ministry of Science and Technology, Shanghai Ocean University, Shanghai 201306, China; 
+5 These authors contributed equally: E.F., P.H. and Q.Q.; 
 
 #Correspondence should be addressed to H.W. (haowu2@pennmedicine.upenn.edu).
 
@@ -21,7 +21,7 @@ Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generat
 
 # Code
 1. Mapping pipelines
-2. Codes for generating Fig. 1-6
+2. Generation of figures
 https://github.com/Xiaolong0803/Fabyanic-NATURE-BIOTECHNOLOGY-2023
 
 # Preprint
