@@ -1,8 +1,8 @@
 # Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene-regulatory functions
 
-Emily B. Fabyanic*, Peng Hu*, Qi Qiu*, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu#
+Emily B. Fabyanic$, Peng Hu$, Qi Qiu$, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu#
 
-* These authors contributed equally: E.F., P.H. and Q.Q.; 
+$ These authors contributed equally: E.F., P.H. and Q.Q.; 
 
 #Correspondence should be addressed to H.W. (haowu2@pennmedicine.upenn.edu).
 
@@ -16,8 +16,8 @@ Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generat
 ![Joint-snhmC-seq_diagram2](https://github.com/wulabupenn/Joint-snhmC-seq/assets/33881425/f89cbf85-fec5-477c-914b-041735466b23)
 
 # Code
-1. Mapping pipelines
-2. Generation of figures
+* Mapping pipelines
+* Generation of figures
 https://github.com/Xiaolong0803/Fabyanic-NATURE-BIOTECHNOLOGY-2023
 
 # Preprint
