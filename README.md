@@ -30,3 +30,9 @@ Quantitative single cell 5hmC sequencing reveals non-canonical gene regulation b
 Emily B. Fabyanic*, Peng Hu*, Qi Qiu*, Tong Wang, Kiara N. Berríos, Jennifer Flournoy, Daniel R. Connolly, Zhaolan Zhou, Rahul M. Kohil, Hao Wu
 
 doi: https://doi.org/10.1101/2021.03.23.434325
+
+
+# Contact
+* Hao Wu or Peng Hu
+* haowu2@pennmedicine.upenn.edu, penghu41@gmail.com
+* [Wu lab](https://www.wulabupenn.org), Department of Genetics, University of Pennsylvania
