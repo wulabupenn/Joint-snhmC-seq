@@ -30,5 +30,5 @@ doi: https://doi.org/10.1101/2021.03.23.434325
 
 
 # Contact
-* Hao Wu (haowu2@pennmedicine.upenn.edu) or Peng Hu (penghu41@gmail.com)
+* Hao Wu (haowu2@pennmedicine.upenn.edu) & Peng Hu (penghu41@gmail.com)
 * [Wu lab](https://www.wulabupenn.org), Department of Genetics, University of Pennsylvania
