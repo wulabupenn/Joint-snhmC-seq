@@ -13,22 +13,17 @@ Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generat
 # Code
 * Codes for plotting figures can be found [here](https://github.com/wulabupenn/Figures_Joint-snhmC-seq_2023).
 
-# Citation
- 
+# Citation 
 Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene regulatory effects
 
 Emily B. Fabyanic*, Peng Hu*, Qi Qiu*, Kiara N. Berríos, Daniel R. Connolly, Tong Wang, Jennifer Flournoy, Zhaolan Zhou, Rahul M. Kohli, Hao Wu $
 
-
-$, Correspondence should be addressed to H.W. (haowu2@pennmedicine.upenn.edu);  *, These authors contributed equally: E.F., P.H. and Q.Q.
+$: Correspondence should be addressed to H.W. (haowu2@pennmedicine.upenn.edu);  
+*: These authors contributed equally: E.F., P.H. and Q.Q.
 
 Nat Biotechnol. 2023 Aug 28. doi: [10.1038/s41587-023-01909-2](https://www.nature.com/articles/s41587-023-01909-2). PMID: 37640946
 
 # Preprint
-Quantitative single cell 5hmC sequencing reveals non-canonical gene regulation by non-CG hydroxymethylation
-
-Emily B. Fabyanic*, Peng Hu*, Qi Qiu*, Tong Wang, Kiara N. Berríos, Jennifer Flournoy, Daniel R. Connolly, Zhaolan Zhou, Rahul M. Kohil, Hao Wu
-
 doi: https://doi.org/10.1101/2021.03.23.434325
 
 
