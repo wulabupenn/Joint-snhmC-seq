@@ -25,7 +25,7 @@ Emily B. Fabyanic*, Peng Hu*, Qi Qiu*, Kiara N. Berríos, Daniel R. Connolly, To
 
 $: Correspondence should be addressed to H.W. (haowu2@pennmedicine.upenn.edu)
 
-Nat Biotechnol. 2023 Aug 28. Online PDF: [https://rdcu.be/dkAMG]. doi: [10.1038/s41587-023-01909-2](https://www.nature.com/articles/s41587-023-01909-2). PMID: 37640946.
+Nat Biotechnol. 2023 Aug 28. [Online PDF](https://rdcu.be/dkAMG). doi: [10.1038/s41587-023-01909-2](https://www.nature.com/articles/s41587-023-01909-2). PMID: 37640946.
 
 # Preprint
 doi: https://doi.org/10.1101/2021.03.23.434325
