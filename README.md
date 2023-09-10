@@ -13,6 +13,9 @@ Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generat
 # Code
 * Codes for plotting figures can be found [here](https://github.com/wulabupenn/Figures_Joint-snhmC-seq_2023).
 
+# Data
+* Raw and processed data can be found at [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236798).
+
 # Reference
 Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene regulatory effects
 
