@@ -20,6 +20,15 @@ Oxidative modification of 5-methylcytosine (5mC) by TET DNA dioxygenases generat
 * Mapping pipelines
 * Codes for plotting figures can be found [here](https://github.com/wulabupenn/Figures_Joint-snhmC-seq_2023).
 
+# Pubmed
+ 
+Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene regulatory effects.
+
+Fabyanic EB, Hu P, Qiu Q, Berríos KN, Connolly DR, Wang T, Flournoy J, Zhou Z, Kohli RM, Wu H.
+
+Nat Biotechnol. 2023 Aug 28. doi: 10.1038/s41587-023-01909-2. Online ahead of print.
+
+PMID: 37640946
 
 # Preprint
 Quantitative single cell 5hmC sequencing reveals non-canonical gene regulation by non-CG hydroxymethylation
